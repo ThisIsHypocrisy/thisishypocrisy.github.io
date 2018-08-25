@@ -523,3 +523,10 @@ body {
 .post .post-title {
   font-size: 30px;
   color: #424242; }
+
+.page-header {
+  background-image: url("/header.jpg");
+  background-size: cover;
+  height: 500px;
+  margin-bottom: 36px;
+  background-position-y: -30px; }
