@@ -148,7 +148,6 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   position: relative; }
@@ -157,7 +156,6 @@ pre {
   font-size: 26px;
   font-weight: 300;
   line-height: 56px;
-  letter-spacing: -1px;
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
@@ -264,7 +262,7 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding-bottom: 30px; }
 
 .page-heading {
   font-size: 20px; }
@@ -291,11 +289,7 @@ pre {
 
 .post-title {
   font-size: 42px;
-  letter-spacing: -1px;
   line-height: 1; }
-  @media screen and (max-width: 800px) {
-    .post-title {
-      font-size: 36px; } }
 
 .post-content {
   margin-bottom: 30px; }
@@ -455,3 +449,77 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+body {
+  font-family: 'Roboto', sans-serif; }
+
+.pagination {
+  list-style: none;
+  margin: 0;
+  border-radius: 0.25rem; }
+  .pagination .page-item {
+    display: inline-block; }
+    .pagination .page-item .page-link {
+      position: relative;
+      display: block;
+      padding: .5rem .75rem;
+      margin-left: -1px;
+      line-height: 1.25;
+      color: #007bff;
+      background-color: #fff;
+      border: 1px solid #dee2e6; }
+      .pagination .page-item .page-link:hover {
+        text-decoration: none;
+        background-color: #e9ecef;
+        border-color: #dee2e6;
+        color: #0056b3; }
+      .pagination .page-item .page-link:not(:disabled):not(.disabled) {
+        cursor: pointer; }
+    .pagination .page-item:first-child .page-link {
+      margin-left: 0;
+      border-top-left-radius: 0.25rem;
+      border-bottom-left-radius: 0.25rem; }
+    .pagination .page-item:last-child .page-link {
+      margin-right: 0;
+      border-top-right-radius: 0.25rem;
+      border-bottom-right-radius: 0.25rem; }
+  .pagination .page-item.disabled .page-link {
+    color: #6c757d;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #fff;
+    border-color: #dee2e6; }
+  .pagination .page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff; }
+
+.post-list {
+  margin-bottom: 64px; }
+
+.site-header .wrapper {
+  height: 56px; }
+  .site-header .wrapper .site-title {
+    line-height: 56px;
+    height: 56px;
+    font-weight: bold; }
+    .site-header .wrapper .site-title:hover {
+      text-decoration: none;
+      color: #626262; }
+
+.post-list .post-meta {
+  font-size: 12px; }
+.post-list .post-link-parent {
+  margin-bottom: 24px; }
+  .post-list .post-link-parent .post-link {
+    font-size: 30px;
+    color: #424242;
+    display: inline; }
+    .post-list .post-link-parent .post-link:hover {
+      text-decoration: none;
+      color: #626262; }
+
+.post .post-title {
+  font-size: 30px;
+  color: #424242; }
