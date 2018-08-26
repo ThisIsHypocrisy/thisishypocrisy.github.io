@@ -527,6 +527,9 @@ body {
   height: 500px;
   margin-bottom: 36px;
   background-position-y: -30px; }
+  @media screen and (max-width: 800px) {
+    .page-header {
+      background-position-y: 0px; } }
 
 img.-outline {
   border: solid #AAA 1px; }

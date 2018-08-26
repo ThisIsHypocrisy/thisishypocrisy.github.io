@@ -4,14 +4,14 @@
     <title>This Is Hypocrisy</title>
     <description>This Is Hypocrisy archives every instance of hypocrisy from the mainstream media. Many media companies stretch and bend reality to spin a story, and sometimes they get caught. To keep them accountable, we plan to archive every instance of hypocrisy to understand the extent of the deception. 
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Aug 2018 20:22:00 -0700</pubDate>
-    <lastBuildDate>Sat, 25 Aug 2018 20:22:00 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 25 Aug 2018 23:20:39 -0700</pubDate>
+    <lastBuildDate>Sat, 25 Aug 2018 23:20:39 -0700</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>The Media Claims Trump Has No Plan To Reach 3% GDP Growth - and We Just Reached 4.1% GDP Growth</title>
+        <title>The Media Claims Trump Has No Plan To Reach 3% GDP Growth - And We Just Reached 4.1% GDP Growth</title>
         <description>&lt;p&gt;Since 2010, US’s GDP growth has stagnated at around 2%. Donald Trump set a 3% annual GDP growth goal. As expected, the media has assumed a highly critical position. Here are some examples:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -27,8 +27,8 @@
 &lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2018-07-27/u-s-gdp-growth-hits-4-1-fastest-since-2014-in-win-for-trump&quot;&gt;&lt;img src=&quot;https://i.imgur.com/nPZsC1l.jpg&quot; class=&quot;-fullwidth -outline&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 19:35:30 -0700</pubDate>
-        <link>/posts/the-media-claims-trump-has-no-plan-to-3-gdp-growth/</link>
-        <guid isPermaLink="true">/posts/the-media-claims-trump-has-no-plan-to-3-gdp-growth/</guid>
+        <link>http://localhost:4000/posts/the-media-claims-trump-has-no-plan-to-3-gdp-growth/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/the-media-claims-trump-has-no-plan-to-3-gdp-growth/</guid>
         
         
       </item>
@@ -50,14 +50,14 @@
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/scHaGyT.jpg&quot; class=&quot;-tweet -outline&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 19:12:44 -0700</pubDate>
-        <link>/posts/newsweek-implies-that-donald-trump-is-antisemitic-yet-they-forget/</link>
-        <guid isPermaLink="true">/posts/newsweek-implies-that-donald-trump-is-antisemitic-yet-they-forget/</guid>
+        <link>http://localhost:4000/posts/newsweek-implies-that-donald-trump-is-antisemitic-yet-they-forget/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/newsweek-implies-that-donald-trump-is-antisemitic-yet-they-forget/</guid>
         
         
       </item>
     
       <item>
-        <title>The Media Misleads Public on Trump's Fish-Feeding Technique in a PR Event With the Japanese Prime Minister Shinzo Abe</title>
+        <title>The Media Misleads Public On Trump's Fish-Feeding Technique In A PR Event With The Japanese Prime Minister Shinzo Abe</title>
         <description>&lt;p&gt;In November last year, a story came out that Donald Trump, while in a fish-feeding PR event with the Japanese Prime Minister Shinzo Abe in the Akasaka Palace, was impatient and ignorant of foreign customs and dumped an entire box of fish food into the pond.&lt;/p&gt;
 
 &lt;p&gt;Here are a few examples:&lt;/p&gt;
@@ -78,8 +78,8 @@
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/KczHVwX.jpg&quot; class=&quot;-fullwidth&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 16:41:06 -0700</pubDate>
-        <link>/posts/the-media-misleads-public-on-trumps-fish-feeding-technique/</link>
-        <guid isPermaLink="true">/posts/the-media-misleads-public-on-trumps-fish-feeding-technique/</guid>
+        <link>http://localhost:4000/posts/the-media-misleads-public-on-trumps-fish-feeding-technique/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/the-media-misleads-public-on-trumps-fish-feeding-technique/</guid>
         
         
       </item>
@@ -111,8 +111,8 @@
 &lt;p&gt;It’s also interesting to note that &lt;a href=&quot;https://www.politico.com/story/2017/11/14/hillary-clinton-uranium-one-deal-russia-explainer-244895&quot;&gt;“several of Uranium One’s owners were also donors to the Clinton Foundation, giving $145 million to the charitable foundation”&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 15:48:13 -0700</pubDate>
-        <link>/posts/the-clintons-pivotal-role-uranium-one/</link>
-        <guid isPermaLink="true">/posts/the-clintons-pivotal-role-uranium-one/</guid>
+        <link>http://localhost:4000/posts/the-clintons-pivotal-role-uranium-one/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/the-clintons-pivotal-role-uranium-one/</guid>
         
         
       </item>
@@ -134,8 +134,8 @@
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/5sJabyi.jpg&quot; class=&quot;-outline -tweet&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 15:18:17 -0700</pubDate>
-        <link>/posts/newsweek-contradicts-itself-on-the-south-african-white-farmers-situation/</link>
-        <guid isPermaLink="true">/posts/newsweek-contradicts-itself-on-the-south-african-white-farmers-situation/</guid>
+        <link>http://localhost:4000/posts/newsweek-contradicts-itself-on-the-south-african-white-farmers-situation/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/newsweek-contradicts-itself-on-the-south-african-white-farmers-situation/</guid>
         
         
       </item>
@@ -163,8 +163,8 @@
 &lt;p&gt;McGowan has since deleted the tweet.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 14:44:21 -0700</pubDate>
-        <link>/posts/metoo-leader-rose-mcgowans-double-standards/</link>
-        <guid isPermaLink="true">/posts/metoo-leader-rose-mcgowans-double-standards/</guid>
+        <link>http://localhost:4000/posts/metoo-leader-rose-mcgowans-double-standards/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/metoo-leader-rose-mcgowans-double-standards/</guid>
         
         
       </item>
@@ -180,8 +180,8 @@
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Sf7TD0h.jpg&quot; class=&quot;-outline -fullwidth&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Aug 2018 04:04:32 -0700</pubDate>
-        <link>/posts/nbc-amazon-and-cartoon-network-writer-asks-for-white-extinction/</link>
-        <guid isPermaLink="true">/posts/nbc-amazon-and-cartoon-network-writer-asks-for-white-extinction/</guid>
+        <link>http://localhost:4000/posts/nbc-amazon-and-cartoon-network-writer-asks-for-white-extinction/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/nbc-amazon-and-cartoon-network-writer-asks-for-white-extinction/</guid>
         
         
       </item>
