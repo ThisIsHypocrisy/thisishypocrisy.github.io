@@ -508,7 +508,7 @@ body {
 .post-list .post-meta {
   font-size: 12px; }
 .post-list .post-link-parent {
-  margin-bottom: 24px; }
+  margin-bottom: 12px; }
   .post-list .post-link-parent .post-link {
     font-size: 30px;
     color: #424242;
@@ -517,9 +517,14 @@ body {
       text-decoration: none;
       color: #626262; }
 
-.post .post-title {
-  font-size: 30px;
-  color: #424242; }
+.post {
+  padding-top: 30px; }
+  .post .post-title {
+    font-size: 30px;
+    color: #424242;
+    margin-bottom: 12px; }
+  .post .post-meta {
+    margin-bottom: 20px; }
 
 .page-header {
   background-image: url("/header.jpg");
@@ -531,16 +536,49 @@ body {
     .page-header {
       background-position-y: 0px; } }
 
-img.-outline {
+.post-content img.-outline {
   border: solid #AAA 1px; }
-
-img.-fullwidth {
+.post-content img.-fullwidth {
   width: 100%; }
-
-img.-tweet {
+.post-content img.-tweet {
   max-width: 600px;
   margin: 0 auto;
   display: block; }
-
-.-center {
+.post-content .-center {
   text-align: center; }
+
+.share-bar {
+  list-style-type: none;
+  margin: 0;
+  font-size: 0;
+  margin-bottom: 24px; }
+  .share-bar li {
+    display: inline-block;
+    font-size: 16px;
+    margin: 0 2px;
+    margin-bottom: 4px; }
+    .share-bar li:first-child {
+      margin-left: 0px; }
+    .share-bar li:last-child {
+      margin-right: 0px; }
+    .share-bar li a {
+      color: white;
+      padding: 5px 12px; }
+      .share-bar li a:hover {
+        text-decoration: none; }
+    .share-bar li .-twitter {
+      background-color: #0eaad6; }
+      .share-bar li .-twitter:hover {
+        background-color: #51cff3; }
+    .share-bar li .-facebook {
+      background-color: #306199; }
+      .share-bar li .-facebook:hover {
+        background-color: #5980ad; }
+    .share-bar li .-linkedin {
+      background-color: #007bb6; }
+      .share-bar li .-linkedin:hover {
+        background-color: #3295c4; }
+    .share-bar li .-google-plus {
+      background-color: #dd4b39; }
+      .share-bar li .-google-plus:hover {
+        background-color: #e36e60; }
